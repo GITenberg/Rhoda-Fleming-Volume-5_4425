@@ -1,0 +1,26 @@
+_repo: Rhoda-Fleming-Volume-5_4425
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: ''
+gutenberg_issued: '2003-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle class -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'English fiction -- 19th century'
+title: Rhoda Fleming — Volume 5
+url: http://www.gutenberg.org/ebooks/4425
