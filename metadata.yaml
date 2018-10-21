@@ -1,5 +1,5 @@
 _repo: Rhoda-Fleming-Volume-5_4425
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
 - !lcsh 'English fiction -- 19th century'
+- GITenberg
 title: Rhoda Fleming — Volume 5
 url: http://www.gutenberg.org/ebooks/4425
